@@ -2,6 +2,16 @@
 
 This project demonstrates how to build a chatbot using a Retrieval-Augmented Generation (RAG) model with Azure OpenAI for language processing and a local document vector database for document retrieval. The chatbot can handle various document types (PDF, PPTX, DOCX, TXT) and supports interactive user sessions with a chat history.
 
+### Key Features
+
+- **Multi-format Document Support**: Handles PDF, PowerPoint, Word, and text files
+- **Real-time Processing**: Immediate document processing and embedding generation
+- **Intelligent Retrieval**: Uses FAISS for efficient similarity search
+- **Context-Aware Responses**: Combines document context with Azure OpenAI's capabilities
+- **Interactive Web Interface**: Built with Streamlit for easy user interaction
+- **Chat History**: Maintains conversation context for better response coherence
+- **Document Reference Tracking**: Shows source documents for transparency
+
 ### Requirements
 
 - Python 3.8 or higher
