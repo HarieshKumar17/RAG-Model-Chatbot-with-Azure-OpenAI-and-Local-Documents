@@ -337,3 +337,11 @@ This will open a web interface where you can upload documents, ask questions, an
 ### Summary
 
 This project provides an end-to-end solution for building a RAG model chatbot using Azure OpenAI and local document embeddings. It includes document handling, embedding, vector database management, and a Streamlit-based user interface. The chatbot retains session history for context-aware responses and allows for a clean termination of the program through the UI.
+
+## Contributing
+
+Contributions are welcome! Please read our contributing guidelines and code of conduct before submitting pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
